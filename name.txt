@@ -1,1 +1,5 @@
-Harsh Agrawal || 2019CS50431 || [I am a tech enthusiast keen to learn and explore things in the world of technology. I have always wanted to create something out of my tech knowledge on my own that would benefit the society as a whole. I love to code and solving challenging problems. I am eager to solve problems that affect the humankind and help them get rid of it by simple tech solutions.]
+Harsh Agrawal || 2019CS50431 || 
+[I am a tech enthusiast keen to learn and explore things in the world of technology.
+I have always wanted to create something out of my tech knowledge on my own that would benefit the society as a whole.
+I love to code and solving challenging problems.
+I am eager to solve problems that affect the humankind and help them get rid of it by simple tech solutions.]
